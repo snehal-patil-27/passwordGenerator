@@ -1,0 +1,21 @@
+{
+    "stepDefinitions": [
+        "cypress/e2e/**/[filepath].ts",
+        "cypress/e2e/shared-step-definitions/*.ts"
+    ],
+    "filterSpecs": true,
+    "omitFiltered": true,
+    "json": {
+        "enabled": true,
+        "formatter": "./cucumber-json-formatter",
+        "output": "./output/cucumber-report.json"
+    },
+    "html": {
+        "enabled": true,
+        "output": "./output/cucumber-report.html"
+    },
+    "messages": {
+        "enabled": true,
+        "output": "./output/cucumber-messages.ndjson"
+    }
+}
