@@ -12,7 +12,7 @@ To check if Node.js is installed, run >> node -v
 
 2. **npm**: 
 npm (Node Package Manager) comes with Node.js. 
-Check if npm is installed by running >> node -v
+Check if npm is installed by running >> npm -v
 
 
 ### Step-by-Step Installation
@@ -21,7 +21,7 @@ Clone this repository to your local machine using Git.
 Open your terminal and run >> git clone https://github.com/snehal-patil-27/passwordGenerator/
 
 2. **Navigate to the Project Directory**:
-Open your IDE and open project directory >> \user\abc\passwordGenerator
+Open project directory 
 
 3. **Install Dependencies**:
 Install the project dependencies using npm >> npm install
