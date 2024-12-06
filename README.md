@@ -1,5 +1,5 @@
-# passwordGenerator
-Password generator feature
+# Cypress with Gherkin Framework
+This repository demonstrates end-to-end test automation using Cypress integrated with the Gherkin framework. The project is designed to showcase how to write and execute behavior-driven development (BDD) style tests for web applications.
 
 ## Installation
 
